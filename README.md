@@ -31,7 +31,7 @@ The dataset used for training and evaluation is provided in directory. It includ
 
 ### **Model Architecture**
 
-The neural network model is a [specify the architecture, e.g., sequential model with hidden layers, dropout, activation functions, etc.]. The model is trained using [specify optimization algorithm, loss function, and metrics].
+The neural network model is a sequential model with hidden layers,  activation functions. The model is trained using Adam optimizer
 
 ### **Usage**
 

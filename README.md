@@ -4,7 +4,7 @@ This repository contains a neural network model developed using Keras for binary
 
 ### **Dataset**
 
-The dataset used for training and evaluation is provided in the `data` directory. It includes the following columns:
+The dataset used for training and evaluation is provided in directory. It includes the following columns:
 
 * **HeartDiseaseorAttack:** Target variable indicating whether a person has experienced a heart disease or attack (0 or 1).
 * **HighBP:** Indicates whether the person has high blood pressure.
@@ -40,10 +40,3 @@ The neural network model is a [specify the architecture, e.g., sequential model 
 3. **Train the model:** Run the training script to train the model on the prepared dataset.
 4. **Evaluate performance:** Evaluate the model's performance using appropriate metrics such as accuracy, precision, recall, F1-score, and AUC-ROC.
 
-### **Additional Notes**
-
-* The model's performance may vary depending on the quality of the data and the specific hyperparameters used.
-* Consider fine-tuning the model architecture and hyperparameters to improve performance.
-* For deployment, you can save the trained model and integrate it into a larger application.
-
-**Replace the placeholders with specific details about your model, dataset, and usage instructions.**

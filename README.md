@@ -29,10 +29,6 @@ The dataset used for training and evaluation is provided in directory. It includ
 * **Education:** Education level.
 * **Income:** Income level.
 
-### **Model Architecture**
-
-Here's a sample description for this Keras-based model architecture:
-
 ---
 
 ### Model Architecture
